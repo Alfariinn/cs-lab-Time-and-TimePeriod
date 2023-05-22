@@ -1,14 +1,17 @@
 ﻿
-
 using TimeLib;
+using System;
 
-var time1 = new Time(1,12);
-Console.WriteLine(time1);
-
-
-
-
-
+namespace TestApplication
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Not implemented.
+        }
+    }
+}
 
 
 
